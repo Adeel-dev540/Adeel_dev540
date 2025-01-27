@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **C++ , HTML,CSS,JS,JAVA,PYTHOn,DART**
+- 🔭 I’m currently working on **C++,HTML,CSS,JS,JAVA,PYTHON,DART**
 
-- 🌱 I’m currently learning **C++ , HTML,CSS,JS,JAVA,PYTHOn,DART**
+- 🌱 I’m currently learning **C++,HTML,CSS,JS,JAVA,PYTHON,DART**
 
 - 👯 I’m looking to collaborate on **Web development , App development,AI project**
 
